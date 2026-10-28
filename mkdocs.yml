@@ -1,0 +1,46 @@
+site_name: My Blog
+site_description: A space for development notes and personal writing
+site_url: https://haeyoonjo.github.io/
+
+repo_url: https://github.com/HaeyoonJo/haeyoonjo.github.io
+repo_name: Github
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search:
+      lang: en
+  - blog
+
+nav:
+  - Home: index.md
+  - Blog:
+      - blog/index.md
+  - CICD:
+      - cicd/cicd-test.md
