@@ -3,7 +3,10 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - master
+
+permissions:
+  contents: write
 
 jobs:
   deploy:
@@ -11,17 +14,16 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
       - name: Build and deploy
         run: |
-          mkdocs build
-          ghp-import -n -p site
+          mkdocs gh-deploy --force
