@@ -35,12 +35,33 @@ theme:
 
 plugins:
   - search:
-      lang: en
+      lang:
+        - en
+        # - ko
   - blog
+
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          name: English
+          build: true
+          default: true
+
+        # - locale: ko
+        #   name: 한국어
+        #   build: true
+        #   site_name: 나의 블로그
+          # nav_translations:
+          #   Home: 홈
+          #   Blog: 블로그
 
 nav:
   - Home: index.md
   - Blog:
       - blog/index.md
-  - CICD:
-      - cicd/cicd-test.md
+  - ML Platform:
+      - ml_platform/index.md
