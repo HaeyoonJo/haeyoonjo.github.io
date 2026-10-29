@@ -10,3 +10,4 @@ Outside of engineering, I’m also documenting my German language-learning journ
 
 - [First blog post](blog/posts/hello.md)
 - [ml-workflow](ml-workflow/index.md)
+- [Deutsch Lernnotizen](Deutsch/Prateritum.md)
