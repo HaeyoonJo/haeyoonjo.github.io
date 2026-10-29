@@ -35,3 +35,7 @@ mkdocs serve
 ```
 
 Open your browser and navigate to http://127.0.0.1:8000 to see your live-updating site.
+
+## blog reference
+- [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
+- [quartz](https://github.com/jackyzha0/quartz/tree/v5)
