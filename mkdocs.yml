@@ -59,6 +59,9 @@ plugins:
           #   Home: 홈
           #   Blog: 블로그
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Home: index.md
   - Blog:
