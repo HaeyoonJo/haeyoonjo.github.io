@@ -65,6 +65,7 @@ nav:
   - Home: index.md
   - Blog:
       - blog/index.md
+      - blog/posts/hello.md
   - ML Platform:
       - ml_platform/index.md
   - Deutsch:

@@ -9,5 +9,5 @@ Outside of engineering, I’m also documenting my German language-learning journ
 [LinkedIn](https://www.linkedin.com/in/haeyoondevops/) · [GitHub](https://github.com/HaeyoonJo)
 
 - [First blog post](blog/posts/hello.md)
-- [ml-workflow](ml-workflow/index.md)
+- [ml-workflow](ml_platform/index.md)
 - [Deutsch Lernnotizen](Deutsch/Prateritum.md)
