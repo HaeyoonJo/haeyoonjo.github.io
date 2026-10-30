@@ -61,7 +61,6 @@ plugins:
 
 extra_css:
   - stylesheets/extra.css
-
 nav:
   - Home: index.md
   - Blog:
@@ -72,3 +71,7 @@ nav:
       - Deutsch/Prateritum.md
       - Deutsch/Komparativ_Superlativ_Adjektivdeklination_Faelle.md
       - Deutsch/Wenn_Falls_Bei.md
+
+theme:
+  name: material
+  custom_dir: overrides
