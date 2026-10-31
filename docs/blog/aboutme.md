@@ -7,4 +7,4 @@ I’m a software engineer from South Korea with over 10 years of engineering exp
 
 [LinkedIn](https://www.linkedin.com/in/haeyoondevops/) · [GitHub](https://github.com/HaeyoonJo)
 
-Back to [Home](../index.md)
+⬅️ Back to [Home](../index.md)
