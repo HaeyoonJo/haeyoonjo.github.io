@@ -536,3 +536,5 @@ Lerne Verben wie **helfen** mit dem Dativ: **Ich helfe dir.** / Learn verbs such
 - [ ] Die richtige Adjektivendung wählen. / Choose the correct adjective ending.
 - [ ] Nominativ, Akkusativ, Dativ und Genitiv erkennen. / Recognize the four cases.
 - [ ] Personalpronomen in verschiedenen Fällen benutzen. / Use personal pronouns in different cases.
+
+Back to [Home](../index.md)

@@ -262,3 +262,5 @@ Denke auch an: **Wenn es regnet** und **bei Regen**. / Also remember: **if it ra
 - [ ] Das Verb im *wenn/falls*-Nebensatz ans Ende setzen. / Put the verb at the end of a *wenn/falls* subordinate clause.
 - [ ] *wenn + Satz* von *bei + Nomen* unterscheiden. / Distinguish *wenn + clause* from *bei + noun*.
 - [ ] Erkennen, dass *beim* kurz für *bei dem* ist. / Recognize that *beim* is short for *bei dem*.
+
+Back to [Home](../index.md)

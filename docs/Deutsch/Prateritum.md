@@ -220,3 +220,5 @@ Versuche zuerst, die Antworten selbst zu schreiben.
 1. Lerne Verben in Dreiergruppen: **gehen – ging – ist gegangen**.
 2. Übe zuerst häufige Verben wie **sein, haben, gehen, kommen**.
 3. Achte auf das Subjekt und den Kasus: **Wir suchten wen oder was? Den Salat.**
+
+Back to [Home](../index.md)
