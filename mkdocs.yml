@@ -62,6 +62,8 @@ nav:
   - Home: index.md
   - ML Platform:
       - ml_platform/index.md
+      - ml_platform/about-this-book.md
+      - ml_platform/CH_1-3.md
   - Deutsch:
       - Deutsch/index.md
       - Deutsch/Prateritum.md

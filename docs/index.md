@@ -4,6 +4,6 @@ This blog is where I document practical engineering work across Kubernetes, CI/C
 
 Outside of engineering, I’m also documenting my German language-learning journey.
 
-- [ml-workflow](ml_platform/index.md)
-- [Deutsch Lernnotizen](Deutsch/index.md)
-- [About me](blog/aboutme.md)
+- 💻 [ml-workflow](ml_platform/index.md)
+- 🇩🇪 [Deutsch Lernnotizen](Deutsch/index.md)
+- 🧑🏻‍💻 [About me](blog/aboutme.md)
