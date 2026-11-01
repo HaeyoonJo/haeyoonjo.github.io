@@ -1,0 +1,436 @@
+{
+  "schemaVersion": 1,
+  "ok": false,
+  "command": "finalize",
+  "status": "fail",
+  "type": "architecture",
+  "quality": "showcase",
+  "startedAt": "2026-11-01T18:36:06.456Z",
+  "specification": {
+    "path": "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/candidate.json",
+    "sha256": "2b02e63cf7281d56dbd1c7d43fe98877fbac2118cb7fc2b3745607edfa9f6136",
+    "bytes": 3874
+  },
+  "artifact": {
+    "path": "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/feast-feature-store.html",
+    "sha256": "7f8fa31271b761b7d613ad500ebd3818c0eedf34c1b934a863aa0a7675c3b2ae",
+    "bytes": 842444
+  },
+  "stages": {
+    "validate": {
+      "status": "pass",
+      "exitCode": 0,
+      "durationMs": null,
+      "execution": "embedded-in-deliver",
+      "command": [
+        "/Users/haeyoonjo/.nvm/versions/node/v26.13.0/bin/node",
+        "/Users/haeyoonjo/.agents/skills/archify/bin/archify.mjs",
+        "deliver",
+        "architecture",
+        "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/candidate.json",
+        "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/feast-feature-store.html",
+        "--quality",
+        "showcase",
+        "--json"
+      ],
+      "receipt": {
+        "schemaVersion": 1,
+        "ok": true,
+        "command": "validate",
+        "specification": {
+          "sha256": "2b02e63cf7281d56dbd1c7d43fe98877fbac2118cb7fc2b3745607edfa9f6136",
+          "bytes": 3874
+        },
+        "validation": {
+          "checksPassed": 9,
+          "checkCount": 9,
+          "compositionProfile": "showcase",
+          "compositionStatus": "pass",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
+    },
+    "deliver": {
+      "status": "pass",
+      "exitCode": 0,
+      "durationMs": 196,
+      "command": [
+        "/Users/haeyoonjo/.nvm/versions/node/v26.13.0/bin/node",
+        "/Users/haeyoonjo/.agents/skills/archify/bin/archify.mjs",
+        "deliver",
+        "architecture",
+        "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/candidate.json",
+        "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/feast-feature-store.html",
+        "--quality",
+        "showcase",
+        "--json"
+      ],
+      "receipt": {
+        "schemaVersion": 1,
+        "receiptId": "17066cd9-f7a9-4fc1-9b22-6cd2fa334a3e",
+        "ok": true,
+        "command": "deliver",
+        "type": "architecture",
+        "input": "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/candidate.json",
+        "output": "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/feast-feature-store.html",
+        "specification": {
+          "sha256": "2b02e63cf7281d56dbd1c7d43fe98877fbac2118cb7fc2b3745607edfa9f6136",
+          "bytes": 3874
+        },
+        "artifact": {
+          "sha256": "7f8fa31271b761b7d613ad500ebd3818c0eedf34c1b934a863aa0a7675c3b2ae",
+          "bytes": 842444
+        },
+        "validation": {
+          "checksPassed": 9,
+          "checkCount": 9,
+          "compositionProfile": "showcase",
+          "compositionStatus": "pass",
+          "errors": 0,
+          "warnings": 0
+        },
+        "update": {
+          "status": "unavailable",
+          "installedVersion": null,
+          "availableVersion": null,
+          "releaseNotes": null,
+          "checkedAt": null,
+          "source": null,
+          "noticeRequired": false,
+          "noticeText": null,
+          "reason": "disabled"
+        }
+      }
+    },
+    "check": {
+      "status": "pass",
+      "exitCode": 0,
+      "durationMs": 84,
+      "command": [
+        "/Users/haeyoonjo/.nvm/versions/node/v26.13.0/bin/node",
+        "/Users/haeyoonjo/.agents/skills/archify/bin/archify.mjs",
+        "check",
+        "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/feast-feature-store.html",
+        "--require-provenance"
+      ],
+      "receipt": {
+        "ok": true,
+        "file": "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/feast-feature-store.html",
+        "artifact": {
+          "sha256": "7f8fa31271b761b7d613ad500ebd3818c0eedf34c1b934a863aa0a7675c3b2ae",
+          "bytes": 842444
+        },
+        "checks": [
+          {
+            "name": "single_svg",
+            "ok": true,
+            "details": [
+              "found 1 <svg> block(s)"
+            ]
+          },
+          {
+            "name": "finite_svg",
+            "ok": true,
+            "details": []
+          },
+          {
+            "name": "orthogonal_arrows",
+            "ok": true,
+            "details": []
+          },
+          {
+            "name": "label_route_clearance",
+            "ok": true,
+            "details": []
+          },
+          {
+            "name": "relationship_crossings",
+            "ok": true,
+            "details": []
+          },
+          {
+            "name": "relationship_corridors",
+            "ok": true,
+            "details": []
+          },
+          {
+            "name": "container_border_runs",
+            "ok": true,
+            "details": []
+          },
+          {
+            "name": "route_rhythm",
+            "ok": true,
+            "details": []
+          },
+          {
+            "name": "legend_clearance",
+            "ok": true,
+            "details": []
+          }
+        ],
+        "composition": {
+          "schemaVersion": 1,
+          "profile": "showcase",
+          "status": "pass",
+          "summary": {
+            "errors": 0,
+            "warnings": 0
+          },
+          "metrics": {
+            "properCrossings": 0,
+            "resolvedCrossovers": 1,
+            "ambiguousCorridors": 0,
+            "arrowheadCollisions": 0,
+            "containerBorderRuns": 0,
+            "labelRouteClearanceIssues": 0,
+            "labelCanvasOverflowIssues": 0,
+            "minLabelRouteClearance": 20.9,
+            "desktopReadabilityIssues": 0,
+            "viewportHeightIssues": 0,
+            "minProjectedNodeTextPx": 7.5,
+            "maxBends": 3,
+            "routesOverSuggestedBends": 3,
+            "maxStretch": 1.279,
+            "routesOverSuggestedStretch": 0,
+            "minSegmentPx": 24,
+            "minInteriorSegmentPx": 56,
+            "shortSegmentCount": 0,
+            "shortEndpointSegmentCount": 0,
+            "shortInteriorSegmentCount": 0,
+            "microSegmentCount": 0
+          },
+          "suggestedLimits": {
+            "bendsPerRelationship": 2,
+            "stretch": 1.35,
+            "segmentPx": 16,
+            "microSegmentPx": 8
+          },
+          "routeReview": {
+            "crossings": [
+              {
+                "left": {
+                  "id": "materialization-to-redis",
+                  "from": "materialization",
+                  "to": "redis",
+                  "label": "sync feature values",
+                  "collectionIndex": 6,
+                  "artifactIndex": 7
+                },
+                "right": {
+                  "id": "feast-to-redis",
+                  "from": "feast",
+                  "to": "redis",
+                  "label": "retrieve online features",
+                  "collectionIndex": 7,
+                  "artifactIndex": 8
+                },
+                "point": [
+                  649.9999999999999,
+                  395.99999999999994
+                ],
+                "sharedNode": "redis"
+              }
+            ],
+            "detours": [
+              {
+                "relationship": {
+                  "id": "minio-to-materialization",
+                  "from": "minio",
+                  "to": "materialization",
+                  "label": "read offline features",
+                  "collectionIndex": 5,
+                  "artifactIndex": 6
+                },
+                "bends": 3,
+                "stretch": 1
+              },
+              {
+                "relationship": {
+                  "id": "feast-to-redis",
+                  "from": "feast",
+                  "to": "redis",
+                  "label": "retrieve online features",
+                  "collectionIndex": 7,
+                  "artifactIndex": 8
+                },
+                "bends": 3,
+                "stretch": 1
+              },
+              {
+                "relationship": {
+                  "id": "redis-to-inference",
+                  "from": "redis",
+                  "to": "inference",
+                  "label": "low-latency features",
+                  "collectionIndex": 8,
+                  "artifactIndex": 9
+                },
+                "bends": 3,
+                "stretch": 1.279
+              }
+            ]
+          },
+          "leadingSpace": {
+            "measured": true,
+            "emptyTopPx": 120,
+            "emptyTopRatio": 0.217,
+            "occupiedTop": 120,
+            "viewBoxTop": 0,
+            "canvasHeight": 552,
+            "typicalNodeHeight": 64,
+            "reviewSuggested": false
+          },
+          "desktopReadability": {
+            "budgetBasis": "recognized-declared-wide",
+            "readerContract": "declared-wide-v1",
+            "availableDiagramWidth": 1162.5,
+            "actualBudgetPx": 1162.5,
+            "actualReaderWidth": 1192.5,
+            "desiredReaderWidth": 1192.5,
+            "viewportCap": 1376,
+            "limit": "source-size",
+            "requestedTargetPx": 7.5,
+            "requestedTargetMet": true,
+            "hardFloorPx": 6,
+            "hardFloorMet": true,
+            "minimumOwner": {
+              "kind": "edge",
+              "id": "pipeline-to-minio",
+              "from": "feature-pipelines",
+              "to": "minio"
+            },
+            "minimumSourceTextPx": 8,
+            "minimumProjectedTextPx": 7.5,
+            "semanticTextCount": 23
+          },
+          "issues": []
+        },
+        "provenance": "current",
+        "deliveryReceiptId": "17066cd9-f7a9-4fc1-9b22-6cd2fa334a3e"
+      }
+    },
+    "browser-check": {
+      "status": "fail",
+      "exitCode": 1,
+      "durationMs": 177,
+      "command": [
+        "/Users/haeyoonjo/.nvm/versions/node/v26.13.0/bin/node",
+        "/Users/haeyoonjo/.agents/skills/archify/bin/archify.mjs",
+        "browser-check",
+        "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/feast-feature-store.html",
+        "--json",
+        "--require-provenance"
+      ],
+      "execution": "in-process",
+      "receipt": {
+        "schemaVersion": 1,
+        "ok": false,
+        "command": "browser-check",
+        "evidenceKind": "automated-browser",
+        "status": "fail",
+        "visualReview": "not-requested",
+        "provenance": "current",
+        "deliveryReceiptId": "17066cd9-f7a9-4fc1-9b22-6cd2fa334a3e",
+        "artifact": {
+          "path": "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/feast-feature-store.html",
+          "sha256": "7f8fa31271b761b7d613ad500ebd3818c0eedf34c1b934a863aa0a7675c3b2ae",
+          "bytes": 842444
+        },
+        "state": {
+          "detail": "read",
+          "motion": "still"
+        },
+        "chrome": {
+          "status": "available",
+          "executable": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+        },
+        "diagnostics": [
+          {
+            "code": "viewer/browser-check-runtime",
+            "severity": "error",
+            "message": "browser-check could not complete its Chrome inspection.",
+            "subject": {
+              "artifact": "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/feast-feature-store.html"
+            },
+            "evidence": {
+              "reason": "Chrome DevTools read pipe failed: stream ended\nChrome process: still running.\nChrome transport: Node v26.13.0, libuv 1.52.1, darwin; pid=29312, exitCode=null, signalCode=null.\nChrome read pipe: readable=false, ended=true, destroyed=false, receivedBytes=0, messages=0, bufferedBytes=0.\nChrome write pipe: writable=true, ended=false, destroyed=false, completedWrites=1, writtenBytes=50, bufferedBytes=0."
+            },
+            "supportedFixes": [
+              "resolve the reported Chrome inspection error, then rerun browser-check"
+            ]
+          }
+        ],
+        "containment": {
+          "status": "fail",
+          "policy": "fit-or-reader-declared-readable-vertical-scroll",
+          "viewports": []
+        },
+        "themeStates": {
+          "status": "fail",
+          "viewports": []
+        },
+        "readability": {
+          "status": "fail",
+          "minimumProjectedNodeTextPx": 6,
+          "viewports": []
+        },
+        "viewerChrome": {
+          "status": "fail",
+          "viewports": []
+        },
+        "captures": {
+          "status": "not-requested",
+          "screenshots": [],
+          "contactSheet": null
+        },
+        "sidecars": {
+          "receipt": "feast-feature-store.browser-check.json",
+          "files": []
+        },
+        "error": "Chrome DevTools read pipe failed: stream ended\nChrome process: still running.\nChrome transport: Node v26.13.0, libuv 1.52.1, darwin; pid=29312, exitCode=null, signalCode=null.\nChrome read pipe: readable=false, ended=true, destroyed=false, receivedBytes=0, messages=0, bufferedBytes=0.\nChrome write pipe: writable=true, ended=false, destroyed=false, completedWrites=1, writtenBytes=50, bufferedBytes=0."
+      }
+    }
+  },
+  "browserCheck": {
+    "requested": true,
+    "ran": false
+  },
+  "diagnostics": [
+    {
+      "code": "viewer/browser-check-runtime",
+      "severity": "error",
+      "message": "browser-check could not complete its Chrome inspection.",
+      "subject": {
+        "artifact": "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/feast-feature-store.html"
+      },
+      "evidence": {
+        "reason": "Chrome DevTools read pipe failed: stream ended\nChrome process: still running.\nChrome transport: Node v26.13.0, libuv 1.52.1, darwin; pid=29312, exitCode=null, signalCode=null.\nChrome read pipe: readable=false, ended=true, destroyed=false, receivedBytes=0, messages=0, bufferedBytes=0.\nChrome write pipe: writable=true, ended=false, destroyed=false, completedWrites=1, writtenBytes=50, bufferedBytes=0."
+      },
+      "supportedFixes": [
+        "resolve the reported Chrome inspection error, then rerun browser-check"
+      ]
+    }
+  ],
+  "evidence": {
+    "receipt": "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/feast-feature-store.finalize.json",
+    "summaryReceipt": "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/feast-feature-store.finalize-summary.json",
+    "browserCheckReceipt": "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/feast-feature-store.browser-check.json"
+  },
+  "visualReview": "not-requested",
+  "failedStage": "browser-check",
+  "finishedAt": "2026-11-01T18:36:07.015Z",
+  "durationMs": 558,
+  "update": {
+    "status": "unavailable",
+    "installedVersion": null,
+    "availableVersion": null,
+    "releaseNotes": null,
+    "checkedAt": null,
+    "source": null,
+    "noticeRequired": false,
+    "noticeText": null,
+    "reason": "cache-unavailable"
+  }
+}

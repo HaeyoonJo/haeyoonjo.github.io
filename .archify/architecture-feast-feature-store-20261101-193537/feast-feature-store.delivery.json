@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "receiptId": "17066cd9-f7a9-4fc1-9b22-6cd2fa334a3e",
+  "status": "current",
+  "command": "deliver",
+  "type": "architecture",
+  "input": "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/candidate.json",
+  "output": "/Users/haeyoonjo/Documents/ChatGPT/Test project/.archify/architecture-feast-feature-store-20261101-193537/feast-feature-store.html",
+  "specification": {
+    "sha256": "2b02e63cf7281d56dbd1c7d43fe98877fbac2118cb7fc2b3745607edfa9f6136",
+    "bytes": 3874
+  },
+  "artifact": {
+    "sha256": "7f8fa31271b761b7d613ad500ebd3818c0eedf34c1b934a863aa0a7675c3b2ae",
+    "bytes": 842444
+  }
+}
