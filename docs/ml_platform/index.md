@@ -5,5 +5,6 @@ Hello, welcome to my ML Platform blog. Here, I document my journey in learning a
 ## Contents
 - [About this Book](about-this-book.md)
 - [Chapter 1 - 3: Foundations](CH_1-3.md)
+- [Chapter 4 - 5: Platform Design](CH_4-5.md)
 
 ⬅️ Back to [Home](../index.md)

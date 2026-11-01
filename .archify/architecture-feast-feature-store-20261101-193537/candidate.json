@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Feast Feature Store Architecture",
+    "locale": "en",
+    "output": ".archify/architecture-feast-feature-store-20261101-193537/feast-feature-store.html",
+    "quality_profile": "showcase"
+  },
+  "components": [
+    {
+      "id": "feature-pipelines",
+      "type": "backend",
+      "label": "Feature Pipelines",
+      "sublabel": "batch feature generation",
+      "pos": [40, 290],
+      "size": [150, 64]
+    },
+    {
+      "id": "minio",
+      "type": "database",
+      "label": "MinIO",
+      "sublabel": "offline feature store",
+      "pos": [310, 120],
+      "size": [150, 64]
+    },
+    {
+      "id": "feast",
+      "type": "backend",
+      "label": "Feast",
+      "sublabel": "feature definitions and access",
+      "pos": [310, 290],
+      "size": [160, 64],
+      "tag": "central feature store"
+    },
+    {
+      "id": "materialization",
+      "type": "backend",
+      "label": "Materialization",
+      "sublabel": "sync offline to online",
+      "pos": [570, 290],
+      "size": [160, 64]
+    },
+    {
+      "id": "redis",
+      "type": "database",
+      "label": "Redis",
+      "sublabel": "online feature store",
+      "pos": [810, 420],
+      "size": [150, 64]
+    },
+    {
+      "id": "training",
+      "type": "backend",
+      "label": "Model Training",
+      "sublabel": "offline training data",
+      "pos": [570, 120],
+      "size": [160, 64]
+    },
+    {
+      "id": "inference",
+      "type": "backend",
+      "label": "Inference Service",
+      "sublabel": "real-time predictions",
+      "pos": [1040, 420],
+      "size": [160, 64]
+    }
+  ],
+  "connections": [
+    {
+      "id": "pipeline-to-minio",
+      "from": "feature-pipelines",
+      "to": "minio",
+      "label": "write feature data",
+      "variant": "dashed",
+      "fromSide": "top",
+      "toSide": "left"
+    },
+    {
+      "id": "pipeline-to-feast",
+      "from": "feature-pipelines",
+      "to": "feast",
+      "label": "register features",
+      "variant": "default"
+    },
+    {
+      "id": "feast-to-minio",
+      "from": "feast",
+      "to": "minio",
+      "label": "offline retrieval",
+      "variant": "default",
+      "fromSide": "top",
+      "toSide": "bottom"
+    },
+    {
+      "id": "minio-to-training",
+      "from": "minio",
+      "to": "training",
+      "label": "training features",
+      "variant": "emphasis"
+    },
+    {
+      "id": "feast-to-materialization",
+      "from": "feast",
+      "to": "materialization",
+      "label": "materialize",
+      "variant": "emphasis"
+    },
+    {
+      "id": "minio-to-materialization",
+      "from": "minio",
+      "to": "materialization",
+      "label": "read offline features",
+      "variant": "default",
+      "fromSide": "right",
+      "toSide": "top"
+    },
+    {
+      "id": "materialization-to-redis",
+      "from": "materialization",
+      "to": "redis",
+      "label": "sync feature values",
+      "variant": "dashed",
+      "fromSide": "bottom",
+      "toSide": "left"
+    },
+    {
+      "id": "feast-to-redis",
+      "from": "feast",
+      "to": "redis",
+      "label": "retrieve online features",
+      "variant": "emphasis",
+      "fromSide": "right",
+      "toSide": "top"
+    },
+    {
+      "id": "redis-to-inference",
+      "from": "redis",
+      "to": "inference",
+      "label": "low-latency features",
+      "variant": "default"
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "Offline path",
+      "items": [
+        "Feature pipelines write historical values to MinIO.",
+        "Model training consumes point-in-time offline features."
+      ]
+    },
+    {
+      "dot": "emerald",
+      "title": "Online path",
+      "items": [
+        "Feast materialization syncs selected feature values into Redis.",
+        "Inference retrieves current features through Feast with low latency."
+      ]
+    }
+  ]
+}
