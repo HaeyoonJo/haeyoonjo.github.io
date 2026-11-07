@@ -4,7 +4,8 @@ Hello, welcome to my ML Platform blog. Here, I document my journey in learning a
 
 ## Contents
 - [About this Book](about-this-book.md)
-- [Chapter 1 - 3: Foundations](CH_1-3.md)
-- [Chapter 4 - 5: Platform Design](CH_4-5.md)
+- [Part 1 — Laying the MLOps foundation](CH_1-3.md)
+- [Part 2 — Designing Reliable ML Systems and Orchestrating ML Pipelines](CH_4-5.md)
+- [Part 3 — Productionizing ML Models and Data Analysis and Preparation](CH_6-7.md)
 
 ⬅️ Back to [Home](../index.md)
