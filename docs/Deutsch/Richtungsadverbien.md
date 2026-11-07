@@ -1,4 +1,4 @@
-# German A2 – Richtungsadverbien (Directional Adverbs)
+# Richtungsadverbien (Directional Adverbs)
 
 ## 1. HER vs. HIN – The Most Important Rule
 
