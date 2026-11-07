@@ -1,4 +1,4 @@
-# Richtungsadverbien (Directional Adverbs)
+# German A2 – Richtungsadverbien (Directional Adverbs)
 
 ## 1. HER vs. HIN – The Most Important Rule
 
@@ -15,9 +15,9 @@ The movement is directed toward the person who is speaking.
 
 **Example:**
 
-- **German:** Komm herein!
-- **English:** Come in!
-- **Korean:** 이쪽으로 들어와!
+- German: `Komm herein!`
+- English: Come in!
+- Korean: 이쪽으로 들어와!
 
 **Situation:** I am inside the room, and you come toward me.
 
@@ -27,9 +27,9 @@ The movement is directed away from the speaker.
 
 **Example:**
 
-- **German:** Geh hinein!
-- **English:** Go inside!
-- **Korean:** 안으로 들어가!
+- German: `Geh hinein!`
+- English: Go inside!
+- Korean: 안으로 들어가!
 
 **Situation:** I am outside the room, and you move inside, away from me.
 
@@ -58,169 +58,275 @@ Learn these words as pairs.
 
 **HERaus – Toward the speaker**
 
-- **English:** Come out (toward me)
-- **Korean:** 이쪽으로 나와
+- English: Come out (toward me)
+- Korean: 이쪽으로 나와
 
 Example:
 
-- **German:** Komm bitte heraus!
-- **English:** Please come out!
-- **Korean:** 이쪽으로 나와 주세요!
+- German: `Komm bitte heraus!`
+- English: Please come out!
+- Korean: 이쪽으로 나와 주세요!
 
 **HINaus – Away from the speaker**
 
-- **English:** Go out (away from me)
-- **Korean:** 밖으로 나가
+- English: Go out (away from me)
+- Korean: 밖으로 나가
 
 Example:
 
-- **German:** Geh bitte hinaus!
-- **English:** Please go outside!
-- **Korean:** 밖으로 나가 주세요!
+- German: `Geh bitte hinaus!`
+- English: Please go outside!
+- Korean: 밖으로 나가 주세요!
 
 ### B. Herein vs. Hinein
 
 **HERein – Toward the speaker**
 
-- **English:** Come in (toward me)
-- **Korean:** 이쪽으로 들어와
+- English: Come in (toward me)
+- Korean: 이쪽으로 들어와
 
 Example:
 
-- **German:** Kommen Sie herein!
-- **English:** Please come in!
-- **Korean:** 들어오세요!
+- German: `Kommen Sie herein!`
+- English: Please come in!
+- Korean: 들어오세요!
 
 **HINein – Away from the speaker**
 
-- **English:** Go inside (away from me)
-- **Korean:** 안으로 들어가
+- English: Go inside (away from me)
+- Korean: 안으로 들어가
 
 Example:
 
-- **German:** Gehen Sie hinein!
-- **English:** Please go inside!
-- **Korean:** 안으로 들어가세요!
+- German: `Gehen Sie hinein!`
+- English: Please go inside!
+- Korean: 안으로 들어가세요!
 
 ### C. Herauf vs. Hinauf
 
 **HERauf – Toward the speaker**
 
-- **English:** Come up (toward me)
-- **Korean:** 이쪽으로 올라와
+- English: Come up (toward me)
+- Korean: 이쪽으로 올라와
 
 Example:
 
-- **German:** Ich komme herauf.
-- **English:** I'm coming up to you.
-- **Korean:** 너에게 올라가고 있어.
+- German: `Ich komme herauf.`
+- English: I'm coming up to you.
+- Korean: 너에게 올라가고 있어.
 
 **HINauf – Away from the speaker**
 
-- **English:** Go up (away from me)
-- **Korean:** 위로 올라가
+- English: Go up (away from me)
+- Korean: 위로 올라가
 
 Example:
 
-- **German:** Ich gehe hinauf.
-- **English:** I'm going upstairs.
-- **Korean:** 나는 위층으로 올라간다.
+- German: `Ich gehe hinauf.`
+- English: I'm going upstairs.
+- Korean: 나는 위층으로 올라간다.
 
 ### D. Herunter vs. Hinunter
 
 **HERunter – Toward the speaker**
 
-- **English:** Come down (toward me)
-- **Korean:** 이쪽으로 내려와
+- English: Come down (toward me)
+- Korean: 이쪽으로 내려와
 
 Example:
 
-- **German:** Komm bitte herunter!
-- **English:** Please come down!
-- **Korean:** 이쪽으로 내려와 주세요!
+- German: `Komm bitte herunter!`
+- English: Please come down!
+- Korean: 이쪽으로 내려와 주세요!
 
 **HINunter – Away from the speaker**
 
-- **English:** Go down (away from me)
-- **Korean:** 아래로 내려가
+- English: Go down (away from me)
+- Korean: 아래로 내려가
 
 Example:
 
-- **German:** Geh bitte hinunter!
-- **English:** Please go downstairs!
-- **Korean:** 아래층으로 내려가 주세요!
+- German: `Geh bitte hinunter!`
+- English: Please go downstairs!
+- Korean: 아래층으로 내려가 주세요!
 
 ### E. Herüber vs. Hinüber
 
 **HERüber – Toward the speaker**
 
-- **English:** Come across (toward me)
-- **Korean:** 이쪽으로 건너와
+- English: Come across (toward me)
+- Korean: 이쪽으로 건너와
 
 Example:
 
-- **German:** Komm bitte herüber!
-- **English:** Please come over!
-- **Korean:** 이쪽으로 건너와 주세요!
+- German: `Komm bitte herüber!`
+- English: Please come over!
+- Korean: 이쪽으로 건너와 주세요!
 
 **HINüber – Away from the speaker**
 
-- **English:** Go across (away from me)
-- **Korean:** 저쪽으로 건너가
+- English: Go across (away from me)
+- Korean: 저쪽으로 건너가
 
 Example:
 
-- **German:** Geh bitte hinüber!
-- **English:** Please go across!
-- **Korean:** 저쪽으로 건너가 주세요!
+- German: `Geh bitte hinüber!`
+- English: Please go across!
+- Korean: 저쪽으로 건너가 주세요!
 
 ---
 
-## 3. Short Forms – Everyday Spoken German
+## 3. Group 1 – Direction and Movement (Richtung / Bewegung)
 
-In spoken German (Umgangssprache), people often use shorter forms.
+These words describe movement from one place to another.
 
-| Short form | Full forms |
-|---|---|
-| raus | heraus / hinaus |
-| rein | herein / hinein |
-| rauf | herauf / hinauf |
-| runter | herunter / hinunter |
-| rüber | herüber / hinüber |
-
-These short forms are very common in everyday conversations.
+| German | English | Korean |
+|---|---|---|
+| hinauf | Upwards / Go up | 위로 올라가 |
+| hinaus | Outwards / Go out | 밖으로 나가 |
+| hinein | Inwards / Go in | 안으로 들어가 |
+| hinunter | Downwards / Go down | 아래로 내려가 |
+| nach draußen | To the outside | 바깥으로 |
 
 ### Examples
 
-**1. Rein**
+**Hinauf – Going up**
 
-- **German:** Komm rein!
-- **English:** Come in!
-- **Korean:** 들어와!
+- German: `Carl geht die Treppe hinauf.`
+- English: Carl goes upstairs.
+- Korean: Carl은 계단을 올라간다.
 
-**2. Raus**
+**Hinaus – Going outside**
 
-- **German:** Geh raus!
-- **English:** Go outside!
-- **Korean:** 밖으로 나가!
+- German: `Ich gehe hinaus.`
+- English: I go outside.
+- Korean: 나는 밖으로 나간다.
 
-**3. Rauf**
+**Hinein – Going inside**
 
-- **German:** Komm rauf!
-- **English:** Come upstairs!
-- **Korean:** 위로 올라와!
+- German: `Ich gehe hinein.`
+- English: I go inside.
+- Korean: 나는 안으로 들어간다.
 
-**4. Runter**
+**Hinunter – Going down**
 
-- **German:** Geh runter!
-- **English:** Go downstairs!
-- **Korean:** 아래로 내려가!
+- German: `Carl geht die Treppe hinunter.`
+- English: Carl goes downstairs.
+- Korean: Carl은 계단을 내려간다.
 
-**5. Rüber**
+**Nach draußen – Going outside**
 
-- **German:** Komm rüber!
-- **English:** Come over!
-- **Korean:** 이쪽으로 건너와!
+- German: `Manni geht nach draußen.`
+- English: Manni goes outside.
+- Korean: Manni는 바깥으로 나간다.
+
+---
+
+## 4. Group 2 – Location (Position / Wo?)
+
+These words describe where a person or object is located.
+
+Unlike directional movement words, they describe a position rather than movement.
+
+| German | English | Korean |
+|---|---|---|
+| oben | Above / Upstairs | 위에 / 위층에 |
+| unten | Below / Downstairs | 아래에 / 아래층에 |
+| vorne | In front / At the front | 앞에 / 앞쪽에 |
+| vorn | In front / At the front | 앞에 / 앞쪽에 |
+| hinten | At the back / Behind | 뒤에 / 뒤쪽에 |
+| links | On the left | 왼쪽에 |
+| rechts | On the right | 오른쪽에 |
+
+### A. Oben – Upstairs / Above
+
+- German: `Ich bin oben.`
+- English: I am upstairs.
+- Korean: 나는 위층에 있다.
+
+### B. Unten – Downstairs / Below
+
+- German: `Ich bin unten.`
+- English: I am downstairs.
+- Korean: 나는 아래층에 있다.
+
+### C. Vorne / Vorn – At the front
+
+- German: `Ich sitze vorne.`
+- English: I am sitting at the front.
+- Korean: 나는 앞쪽에 앉아 있다.
+
+Note: `vorne` and `vorn` have the same basic meaning.
+
+### D. Hinten – At the back
+
+- German: `Er steht hinten.`
+- English: He is standing at the back.
+- Korean: 그는 뒤쪽에 서 있다.
+
+### E. Links – On the left
+
+- German: `Die Tür ist links.`
+- English: The door is on the left.
+- Korean: 문은 왼쪽에 있다.
+
+### F. Rechts – On the right
+
+- German: `Die Tür ist rechts.`
+- English: The door is on the right.
+- Korean: 문은 오른쪽에 있다.
+
+**Remember:**
+
+- oben / unten = Vertical position
+- vorne / hinten = Front and back position
+- links / rechts = Left and right position
+
+---
+
+## 5. Group 3 – Short Forms (Umgangssprache)
+
+These are shortened forms commonly used in everyday spoken German.
+
+| Short form | Full forms | English | Korean |
+|---|---|---|---|
+| raus | heraus / hinaus | Out | 밖으로 |
+| rein | herein / hinein | In | 안으로 |
+| rauf | herauf / hinauf | Up | 위로 |
+| runter | herunter / hinunter | Down | 아래로 |
+| rüber | herüber / hinüber | Across / Over | 건너편으로 |
+
+### Examples
+
+**Raus**
+
+- German: `Geh raus!`
+- English: Go outside!
+- Korean: 밖으로 나가!
+
+**Rein**
+
+- German: `Komm rein!`
+- English: Come in!
+- Korean: 들어와!
+
+**Rauf**
+
+- German: `Komm rauf!`
+- English: Come upstairs!
+- Korean: 위로 올라와!
+
+**Runter**
+
+- German: `Geh runter!`
+- English: Go downstairs!
+- Korean: 아래로 내려가!
+
+**Rüber**
+
+- German: `Komm rüber!`
+- English: Come over!
+- Korean: 이쪽으로 건너와!
 
 **Important:**
 
@@ -233,125 +339,63 @@ For example:
 - `Komm rein!` – Come in!
 - `Geh rein!` – Go inside!
 
-The distinction comes from the situation and the speaker's perspective.
-
 ---
 
-## 4. Location vs. Movement
+## 6. Location vs. Movement – Important Comparison
 
 Some German directional words describe movement, while others describe a fixed location.
 
-| Movement | Location | English |
+| Movement (Direction) | Location (Position) | English |
 |---|---|---|
-| hinauf | oben | Go up / Be above |
-| hinunter | unten | Go down / Be below |
+| hinauf | oben | Go up / Be upstairs |
+| hinunter | unten | Go down / Be downstairs |
+| nach draußen | draußen | Go outside / Be outside |
 
 ### A. Hinauf vs. Oben
 
 **Movement:**
 
-- **German:** Ich gehe hinauf.
-- **English:** I am going upstairs.
-- **Korean:** 나는 위층으로 올라간다.
+- German: `Ich gehe hinauf.`
+- English: I am going upstairs.
+- Korean: 나는 위층으로 올라간다.
 
 **Location:**
 
-- **German:** Ich bin oben.
-- **English:** I am upstairs.
-- **Korean:** 나는 위층에 있다.
+- German: `Ich bin oben.`
+- English: I am upstairs.
+- Korean: 나는 위층에 있다.
 
 ### B. Hinunter vs. Unten
 
 **Movement:**
 
-- **German:** Ich gehe hinunter.
-- **English:** I am going downstairs.
-- **Korean:** 나는 아래층으로 내려간다.
+- German: `Ich gehe hinunter.`
+- English: I am going downstairs.
+- Korean: 나는 아래층으로 내려간다.
 
 **Location:**
 
-- **German:** Ich bin unten.
-- **English:** I am downstairs.
-- **Korean:** 나는 아래층에 있다.
+- German: `Ich bin unten.`
+- English: I am downstairs.
+- Korean: 나는 아래층에 있다.
 
-**Remember:**
+### C. Nach draußen vs. Draußen
 
-- hinauf = Movement upward
-- oben = Location above
-- hinunter = Movement downward
-- unten = Location below
+**Movement:**
 
----
+- German: `Ich gehe nach draußen.`
+- English: I am going outside.
+- Korean: 나는 바깥으로 나간다.
 
-## 5. Other Important Directional Adverbs
+**Location:**
 
-### A. Vertical Directions
-
-| German | English | Korean |
-|---|---|---|
-| oben | Above / Upstairs | 위에 |
-| unten | Below / Downstairs | 아래에 |
-| hinauf | Upwards | 위로 |
-| hinunter | Downwards | 아래로 |
-| rauf | Up (colloquial) | 위로 |
-| runter | Down (colloquial) | 아래로 |
-
-### B. Front and Back
-
-| German | English | Korean |
-|---|---|---|
-| vorne / vorn | In front / At the front | 앞에 |
-| hinten | At the back / Behind | 뒤에 |
-
-**Examples:**
-
-**1. Vorne**
-
-- **German:** Ich sitze vorne.
-- **English:** I sit in the front.
-- **Korean:** 나는 앞쪽에 앉아 있다.
-
-**2. Hinten**
-
-- **German:** Er steht hinten.
-- **English:** He is standing at the back.
-- **Korean:** 그는 뒤쪽에 서 있다.
-
-### C. Left and Right
-
-| German | English | Korean |
-|---|---|---|
-| links | Left / On the left | 왼쪽 |
-| rechts | Right / On the right | 오른쪽 |
-
-**Examples:**
-
-**1. Links**
-
-- **German:** Die Tür ist links.
-- **English:** The door is on the left.
-- **Korean:** 문은 왼쪽에 있다.
-
-**2. Rechts**
-
-- **German:** Geh nach rechts!
-- **English:** Go to the right!
-- **Korean:** 오른쪽으로 가!
-
-### D. Other Expressions
-
-| German | English | Korean |
-|---|---|---|
-| nach draußen | To the outside | 바깥으로 |
-| rein | Inside (colloquial) | 안으로 |
-| raus | Outside (colloquial) | 밖으로 |
-| rauf | Up (colloquial) | 위로 |
-| runter | Down (colloquial) | 아래로 |
-| rüber | Across / Over | 건너편으로 |
+- German: `Ich bin draußen.`
+- English: I am outside.
+- Korean: 나는 밖에 있다.
 
 ---
 
-## 6. Wo? vs. Woher? vs. Wohin?
+## 7. Wo? vs. Woher? vs. Wohin?
 
 These three question words are important for understanding direction.
 
@@ -365,68 +409,62 @@ These three question words are important for understanding direction.
 
 Asks where someone or something is located.
 
-**Example:**
-
-- **German:** Wo bist du?
-- **English:** Where are you?
-- **Korean:** 너 어디에 있어?
+- German: `Wo bist du?`
+- English: Where are you?
+- Korean: 너 어디에 있어?
 
 Answer:
 
-- **German:** Ich bin im Haus.
-- **English:** I am in the house.
-- **Korean:** 나는 집 안에 있다.
+- German: `Ich bin im Haus.`
+- English: I am in the house.
+- Korean: 나는 집 안에 있다.
 
 ### B. Woher? – Origin (어디에서?)
 
 Asks where someone or something comes from.
 
-**Example:**
-
-- **German:** Woher kommst du?
-- **English:** Where are you coming from?
-- **Korean:** 너 어디에서 오니?
+- German: `Woher kommst du?`
+- English: Where are you coming from?
+- Korean: 너 어디에서 오니?
 
 Answer:
 
-- **German:** Ich komme aus dem Haus.
-- **English:** I am coming from the house.
-- **Korean:** 나는 집에서 나온다.
+- German: `Ich komme aus dem Haus.`
+- English: I am coming from the house.
+- Korean: 나는 집에서 나온다.
 
 ### C. Wohin? – Destination (어디로?)
 
 Asks where someone or something is going.
 
-**Example:**
-
-- **German:** Wohin gehst du?
-- **English:** Where are you going?
-- **Korean:** 너 어디로 가니?
+- German: `Wohin gehst du?`
+- English: Where are you going?
+- Korean: 너 어디로 가니?
 
 Answer:
 
-- **German:** Ich gehe ins Haus.
-- **English:** I am going into the house.
-- **Korean:** 나는 집 안으로 들어간다.
+- German: `Ich gehe ins Haus.`
+- English: I am going into the house.
+- Korean: 나는 집 안으로 들어간다.
 
 ### Important Grammar Connection
 
-- Wo? → Location → Often Dativ with two-way prepositions (Wechselpräpositionen).
-- Wohin? → Direction / Destination → Often Akkusativ with two-way prepositions.
+- Wo? → Location → Usually Dativ with two-way prepositions (Wechselpräpositionen).
+- Wohin? → Direction / Destination → Usually Akkusativ with two-way prepositions.
 
-**Example:**
+**Examples:**
 
 Location (Dativ):
 
-- **German:** Ich bin im Haus.
-- **English:** I am in the house.
-- **Korean:** 나는 집 안에 있다.
+- German: `Ich bin im Haus.`
+- English: I am in the house.
+- Korean: 나는 집 안에 있다.
 
 Movement (Akkusativ):
 
-- **German:** Ich gehe ins Haus.
-- **English:** I am going into the house.
-- **Korean:** 나는 집 안으로 들어간다.
+- German: `Ich gehe ins Haus.`
+- English: I am going into the house.
+- Korean: 나는 집 안으로 들어간다.
 
 **Contractions:**
 
@@ -435,80 +473,129 @@ Movement (Akkusativ):
 
 ---
 
-## 7. Important Examples from the Textbook
 
-### Example 1 – Stairs (Die Treppe)
+## 8. Important Examples from the Textbook
 
-- **German:** Carl geht die Treppe hinauf.
-- **English:** Carl goes upstairs.
-- **Korean:** Carl은 계단을 올라간다.
+### Example 1 – Going Upstairs and Downstairs (Die Treppe)
 
-- **German:** Jetzt ist er oben.
-- **English:** Now he is upstairs.
-- **Korean:** 이제 그는 위층에 있다.
+**Situation:** Carl walks up the stairs, reaches the top, and then walks back down.
 
-- **German:** Dann geht er die Treppe hinunter.
-- **English:** Then he goes downstairs.
-- **Korean:** 그다음 그는 계단을 내려간다.
+| Step | German | English | Korean |
+|---|---|---|---|
+| 1. Going up | **Carl geht die Treppe hinauf.** | Carl goes upstairs. | Carl은 계단을 올라간다. |
+| 2. At the top | **Jetzt ist er oben.** | Now he is upstairs. | 이제 그는 위층에 있다. |
+| 3. Going down | **Dann geht er die Treppe hinunter.** | Then he goes downstairs. | 그다음 그는 계단을 내려간다. |
+| 4. At the bottom | **Jetzt ist er unten.** | Now he is downstairs. | 이제 그는 아래층에 있다. |
 
-- **German:** Jetzt ist er unten.
-- **English:** Now he is downstairs.
-- **Korean:** 이제 그는 아래층에 있다.
+**Grammar focus:**
 
-### Example 2 – Going Outside and Coming Back Inside
+- `hinauf` = Movement upward (위로 올라가는 동작)
+- `oben` = Location at the top (위쪽에 있는 상태)
+- `hinunter` = Movement downward (아래로 내려가는 동작)
+- `unten` = Location at the bottom (아래쪽에 있는 상태)
 
-- **German:** Manni öffnet die Tür und geht nach draußen.
-- **English:** Manni opens the door and goes outside.
-- **Korean:** Manni는 문을 열고 밖으로 나간다.
-
-- **German:** Aber es ist kalt, also geht er wieder rein.
-- **English:** But it is cold, so he goes back inside.
-- **Korean:** 하지만 춥기 때문에 그는 다시 안으로 들어간다.
-
-### Example 3 – Front and Back
-
-- **German:** Auf dem Konzert steht Max in der ersten Reihe.
-- **English:** At the concert, Max is standing in the first row.
-- **Korean:** 콘서트에서 Max는 첫 번째 줄에 서 있다.
-
-- **German:** Er steht ganz vorne.
-- **English:** He is standing right at the front.
-- **Korean:** 그는 맨 앞에 서 있다.
-
-- **German:** Aber seine Frau steht immer ganz hinten.
-- **English:** But his wife always stands at the very back.
-- **Korean:** 하지만 그의 아내는 항상 맨 뒤에 서 있다.
+**Remember:** Movement and location are different!
 
 ---
 
-## 8. Final Summary – What Should I Remember?
+### Example 2 – Going Outside and Coming Back Inside (Nach draußen und wieder rein)
 
-### The 7 Most Important Rules
+**Situation:** Manni opens the door, goes outside, feels cold, and returns inside.
 
-1. **HER** = Toward the speaker (나에게로).
-2. **HIN** = Away from the speaker (나에게서 멀어지는 방향).
-3. **RAUS, REIN, RAUF, RUNTER, RÜBER** = Colloquial short forms.
-4. **OBEN and UNTEN** describe location.
-5. **HINAUF and HINUNTER** describe movement.
-6. **WO?** asks about location.
-7. **WOHER?** asks about origin, and **WOHIN?** asks about destination.
+| Step | German | English | Korean |
+|---|---|---|---|
+| 1. Opening the door | **Manni öffnet die Tür.** | Manni opens the door. | Manni는 문을 연다. |
+| 2. Going outside | **Er geht nach draußen.** | He goes outside. | 그는 밖으로 나간다. |
+| 3. Feeling cold | **Aber es ist kalt.** | But it is cold. | 하지만 춥다. |
+| 4. Going inside again | **Also geht er wieder rein.** | So he goes back inside. | 그래서 그는 다시 안으로 들어간다. |
 
-### Quick Memory Table
+**Grammar focus:**
 
-| German | English | Korean |
+- `nach draußen` = To the outside (바깥으로 이동)
+- `draußen` = Outside (바깥에 있는 상태)
+- `rein` = Inside (안으로, 구어체)
+- `wieder` = Again / Back (다시)
+
+**Remember:** `rein` is a common colloquial short form of `herein` or `hinein`. The exact perspective depends on the context.
+
+---
+
+### Example 3 – Front and Back (Vorne und hinten)
+
+**Situation:** At a concert, Max stands in the first row, while his wife stands at the very back.
+
+| Step | German | English | Korean |
+|---|---|---|---|
+| 1. First row | **Auf dem Konzert steht Max in der ersten Reihe.** | At the concert, Max is standing in the first row. | 콘서트에서 Max는 첫 번째 줄에 서 있다. |
+| 2. At the front | **Er steht ganz vorne.** | He is standing right at the front. | 그는 맨 앞에 서 있다. |
+| 3. At the back | **Aber seine Frau steht immer ganz hinten.** | But his wife always stands at the very back. | 하지만 그의 아내는 항상 맨 뒤에 서 있다. |
+
+**Grammar focus:**
+
+- `vorne / vorn` = At the front (앞쪽에)
+- `hinten` = At the back (뒤쪽에)
+- `ganz` = Right / Very (맨, 아주)
+
+**Remember:** `vorne` and `hinten` describe location, not movement.
+
+---
+
+### Quick Comparison – What Did We Learn?
+
+| Example | Movement | Location |
 |---|---|---|
-| herein | Come in! | 이쪽으로 들어와! |
-| hinein | Go in! | 안으로 들어가! |
-| heraus | Come out! | 이쪽으로 나와! |
-| hinaus | Go out! | 밖으로 나가! |
-| herauf | Come up! | 이쪽으로 올라와! |
-| hinauf | Go up! | 위로 올라가! |
-| herunter | Come down! | 이쪽으로 내려와! |
-| hinunter | Go down! | 아래로 내려가! |
-| herüber | Come across! | 이쪽으로 건너와! |
-| hinüber | Go across! | 저쪽으로 건너가! |
+| Stairs | hinauf / hinunter | oben / unten |
+| Outside | nach draußen / rein | draußen / drinnen |
+| Concert | — | vorne / hinten |
 
-**The most important thing to remember:**
+**Key takeaway:**
+
+- Movement = Where is someone going?
+- Location = Where is someone or something?
+
+Always distinguish between movement (Richtung) and location (Position).
+
+---
+
+## 9. Final Summary – What Should I Remember?
+
+### Group 1 – Direction / Movement
+
+- hinauf = Upwards
+- hinaus = Outwards
+- hinein = Inwards
+- hinunter = Downwards
+- nach draußen = To the outside
+
+### Group 2 – Location / Position
+
+- oben = Upstairs / Above
+- unten = Downstairs / Below
+- vorne / vorn = At the front
+- hinten = At the back
+- links = On the left
+- rechts = On the right
+
+### Group 3 – Short Forms / Spoken German
+
+- raus = Out
+- rein = In
+- rauf = Up
+- runter = Down
+- rüber = Across / Over
+
+### HER vs. HIN
+
+- HER = Toward the speaker.
+- HIN = Away from the speaker.
+
+### Wo? / Woher? / Wohin?
+
+- Wo? = Where? (Location)
+- Woher? = From where? (Origin)
+- Wohin? = To where? (Destination)
+
+**Final learning tip:**
 
 Always imagine where the speaker is standing.
 
