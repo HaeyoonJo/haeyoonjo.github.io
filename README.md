@@ -13,9 +13,8 @@ Create and activate a virtual environment, then install the required dependencie
 python3 -m venv .venv
 source .venv/bin/activate
 
-pip3 install "mkdocs-material==9.*"
-
 pip3 install -r requirements.txt
+
 mkdocs new .
 ```
 
