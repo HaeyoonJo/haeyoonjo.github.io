@@ -1,2 +1,7 @@
 .venv/
 site/
+
+# This keeps md files that Im working on.
+#   - Tech blogging files.
+#   - such as B1, B2 level of German grammar.
+*_ignore.md
