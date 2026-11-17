@@ -112,7 +112,7 @@ With no article, the adjective often carries more grammatical information.
 
 | Case | Masculine | Neuter | Feminine | Plural |
 |---|---|---|---|---|
-| Nominative | kleiner Wein (unusual; normally *deutscher Wein*) | deutsches Bier | deutsche Wurst | kleine Hunde |
+| Nominative | guter Wein | deutsches Bier | deutsche Wurst | kleine Hunde |
 | Accusative | deutschen Wein | deutsches Bier | deutsche Wurst | kleine Hunde |
 | Dative | deutschem Wein | deutschem Bier | deutscher Wurst | kleinen Hunden |
 | Genitive | deutschen Weines | deutschen Bieres | deutscher Wurst | kleiner Hunde |

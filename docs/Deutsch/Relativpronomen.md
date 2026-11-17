@@ -1,10 +1,16 @@
-## Relativpronomen (Relative Pronouns)
+---
+title: "Relativpronomen (Relative Pronouns)"
+language: "German and English"
+level: "A2"
+---
+
+# Relativpronomen (Relative Pronouns)
 
 ### 1. Relativpronomen – Tabelle
 
 Relative pronouns connect a main clause with a relative clause. They refer to a noun mentioned before.
 
-| Kasus | m (Maskulin) | n (Neutral) | f (Feminin) | pl (Plural) |
+| Kasus | m (Maskulin) | n (Neutrum) | f (Feminin) | pl (Plural) |
 |---|---|---|---|---|
 | **Nominativ** | der | das | die | die |
 | **Akkusativ** | den | das | die | die |

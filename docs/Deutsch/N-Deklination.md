@@ -1,4 +1,10 @@
-## n-Deklination (Weak Masculine Nouns)
+---
+title: "n-Deklination (Weak Masculine Nouns)"
+language: "German and English"
+level: "A2"
+---
+
+# n-Deklination (Weak Masculine Nouns)
 
 ### 1. What is n-Deklination?
 
@@ -220,11 +226,13 @@ Einige Nomen haben besondere Formen. Diese Formen sollte man extra lernen.
 
 #### 6.1 der Name
 
-`der Name` belongs to n-Deklination, but its Genitiv form is special.
+`der Name` belongs to the related **mixed declension** pattern. Its genitive
+form is special.
 
 **Deutsch (A2):**
 
-`Der Name` gehört zur n-Deklination. Aber im Genitiv ist die Form besonders.
+`Der Name` gehört zu einer verwandten gemischten Deklination. Aber im Genitiv
+ist die Form besonders.
 
 | Kasus | Form |
 |---|---|
@@ -244,7 +252,18 @@ Examples:
 
 Genitiv: `des Namens`, not `des Namen`.
 
-#### 6.2 der Herr
+#### 6.2 Other mixed-declension nouns
+
+Like *Name*, these masculine nouns add `-n` or `-en` outside the nominative
+singular, but use `-s` in the genitive singular. Learn them individually.
+
+| Nominativ | Akkusativ | Dativ | Genitiv |
+|---|---|---|---|
+| der Gedanke | den Gedanken | dem Gedanken | des Gedankens |
+| der Glaube | den Glauben | dem Glauben | des Glaubens |
+| der Buchstabe | den Buchstaben | dem Buchstaben | des Buchstabens |
+
+#### 6.3 der Herr
 
 `der Herr` also has a special Genitiv form.
 
@@ -266,7 +285,7 @@ Examples:
 - Ich helfe dem Herrn.
 - Das Auto des Herrn ist neu.
 
-#### 6.3 das Herz
+#### 6.4 das Herz
 
 `das Herz` is a neuter noun, not a masculine n-Deklination noun. However, it has a special declension pattern.
 

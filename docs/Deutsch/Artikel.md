@@ -1,10 +1,10 @@
 ---
-title: "Declension Tables for Articles"
+title: "Artikelwörter und Adjektivdeklination"
 language: "German and English"
 level: "A2"
 ---
 
-## Artikelwörter and Adjektivdeklination (A2)
+# Artikelwörter und Adjektivdeklination
 
 **Column order:** Masculine (M) → Neuter (N) → Feminine (F) → Plural (Pl)
 

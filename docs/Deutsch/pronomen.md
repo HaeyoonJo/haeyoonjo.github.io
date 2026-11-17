@@ -1,4 +1,10 @@
-## Personal Pronouns and Reflexive Pronouns in German
+---
+title: "Personal and Reflexive Pronouns"
+language: "German and English"
+level: "A2"
+---
+
+# Personal Pronouns and Reflexive Pronouns in German
 
 - Eine Übersicht über die deutschen Pronomen (Personalpronomen, Reflexivpronomen, Possessivpronomen, Demonstrativpronomen, Relativpronomen, Interrogativpronomen).
 

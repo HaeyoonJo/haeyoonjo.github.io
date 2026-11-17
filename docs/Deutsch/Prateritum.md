@@ -144,6 +144,21 @@ Das Perfekt wird normalerweise mit **haben/sein + Partizip II** gebildet.
 | sein | ich war | ich bin gewesen |
 | denken | ich dachte | ich habe gedacht |
 
+### `sein`: *war* and *gewesen*
+
+`gewesen` is the Partizip II (past participle) of `sein`; it corresponds to
+*been* in English. Use it with `sein` to form the Perfekt.
+
+| Präsens | Präteritum | Perfekt |
+|---|---|---|
+| Ich bin müde. | Ich war müde. | Ich bin müde gewesen. |
+| Es ist kalt. | Es war kalt. | Es ist kalt gewesen. |
+| Wir sind zu Hause. | Wir waren zu Hause. | Wir sind zu Hause gewesen. |
+
+In everyday spoken German, *war* and *waren* are especially common for past
+states. The complete Perfekt forms are: *ich bin gewesen, du bist gewesen,
+er/sie/es ist gewesen, wir/sie/Sie sind gewesen, ihr seid gewesen*.
+
 ## 5. Beispielsätze
 
 | Präsens | Präteritum | Englisch |
