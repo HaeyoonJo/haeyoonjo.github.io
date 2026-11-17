@@ -69,12 +69,16 @@ nav:
       - ml_platform/ml-platform-engineering-part-3.md
   - Deutsch:
       - Deutsch/index.md
-      - Deutsch/Artikel.md
-      - Deutsch/indirekt_objekt.md
-      - Deutsch/Prateritum.md
-      - Deutsch/Komparativ_Superlativ_Adjektivdeklination_Faelle.md
-      - Deutsch/N-Deklination.md
-      - Deutsch/Relativpronomen.md
-      - Deutsch/Wenn_Falls_Bei.md
-      - Deutsch/Richtungsadverbien.md
-      - Deutsch/pronomen.md
+      - A2 Wiederholung:
+          - Deutsch/a2/index.md
+          - Artikelwörter und Adjektivdeklination: Deutsch/a2/artikel-und-adjektivdeklination.md
+          - Direkte und indirekte Objekte: Deutsch/a2/direkte-und-indirekte-objekte.md
+          - Personal- und Reflexivpronomen: Deutsch/a2/personal-und-reflexivpronomen.md
+          - Präteritum und Perfekt: Deutsch/a2/praeteritum-und-perfekt.md
+          - Wenn, falls und bei: Deutsch/a2/wenn-falls-bei.md
+          - Komparativ, Superlativ und Adjektivdeklination: Deutsch/a2/komparativ-superlativ-adjektivdeklination.md
+          - n-Deklination: Deutsch/a2/n-deklination.md
+          - Relativpronomen: Deutsch/a2/relativpronomen.md
+          - Richtungsadverbien: Deutsch/a2/richtungsadverbien.md
+      - B1 Vorbereitung: Deutsch/b1/index.md
+      - B2 Ausbau: Deutsch/b2/index.md

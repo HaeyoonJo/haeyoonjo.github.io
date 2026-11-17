@@ -236,4 +236,4 @@ Versuche zuerst, die Antworten selbst zu schreiben.
 2. Übe zuerst häufige Verben wie **sein, haben, gehen, kommen**.
 3. Achte auf das Subjekt und den Kasus: **Wir suchten wen oder was? Den Salat.**
 
-- [Zurück zur Startseite](./index.md)
+- [Zurück zur A2-Wiederholung](./index.md)
