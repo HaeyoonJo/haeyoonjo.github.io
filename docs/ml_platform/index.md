@@ -8,5 +8,8 @@ Hello, welcome to my ML Platform blog. Here, I document my journey in learning a
 - [Part 2 — Designing Reliable ML Systems and Orchestrating ML Pipelines](CH_4-5.md)
 - [Part 2-2 — The MLOps workflow](CH_6-7.md)
 - [Part 3 — Productionizing ML Models and Data Analysis and Preparation](ml-platform-engineering-part-3.md)
+- [Part 6 — Monitoring and Observability](chapter-11.md)
+- [Part 7 — Designing LLM-Powered Systems](chapter-12.md)
+- [Part 8 — Operationalizing LLMs](chapter-13.md)
 
 ⬅️ Back to [Home](../index.md)

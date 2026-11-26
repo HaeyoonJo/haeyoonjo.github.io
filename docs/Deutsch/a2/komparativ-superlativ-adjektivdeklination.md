@@ -112,7 +112,7 @@ With no article, the adjective often carries more grammatical information.
 
 | Case | Masculine | Neuter | Feminine | Plural |
 |---|---|---|---|---|
-| Nominative | kleiner Wein (unusual; normally *deutscher Wein*) | deutsches Bier | deutsche Wurst | kleine Hunde |
+| Nominative | guter Wein | deutsches Bier | deutsche Wurst | kleine Hunde |
 | Accusative | deutschen Wein | deutsches Bier | deutsche Wurst | kleine Hunde |
 | Dative | deutschem Wein | deutschem Bier | deutscher Wurst | kleinen Hunden |
 | Genitive | deutschen Weines | deutschen Bieres | deutscher Wurst | kleiner Hunde |
@@ -537,4 +537,4 @@ Lerne Verben wie **helfen** mit dem Dativ: **Ich helfe dir.** / Learn verbs such
 - [ ] Nominativ, Akkusativ, Dativ und Genitiv erkennen. / Recognize the four cases.
 - [ ] Personalpronomen in verschiedenen Fällen benutzen. / Use personal pronouns in different cases.
 
-- [Zurück zur Startseite](./index.md)
+- [Zurück zur A2-Wiederholung](./index.md)
